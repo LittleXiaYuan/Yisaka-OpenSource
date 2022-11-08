@@ -1,4 +1,5 @@
 # LiquidBounce
+#只适用于作为Base 并不适用于直接套用！
 A free mixin-based injection hacked-client for Minecraft using Minecraft Forge.
 
 Website: https://liquidbounce.net \
